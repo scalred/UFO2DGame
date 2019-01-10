@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity_project",
+"dataUrl": "GithubUnity.data.unityweb",
+"asmCodeUrl": "GithubUnity.asm.code.unityweb",
+"asmMemoryUrl": "GithubUnity.asm.memory.unityweb",
+"asmFrameworkUrl": "GithubUnity.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
